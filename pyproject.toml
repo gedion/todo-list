@@ -1,0 +1,11 @@
+[project]
+name = "hello-world-cli"
+version = "0.1.0"
+description = "Minimal Hello, World! CLI script."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{ name = "Your Name" }]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
